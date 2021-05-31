@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Somadhan(Sabbir)</string>
+    <string name="welcome_name">WELCOME!</string>
+
+    <string name="submit_name">Submit</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">÷</string>
+    <string name="mul">×</string>
+    <string name="back">Back</string>
+    <string name="reset">Reset</string>
+    <string name="cal">CalCulate</string>
+    <string name="conv">Convert</string>
+    <string name="and">And</string>
+    <string name="sab">Sabbir Alam Pran</string>
+
+
+    <string name="chose_name">Chose one from below.</string>
+
+    <string-array name="chose">
+        <item>Calculator</item>
+        <item>Converter</item>
+
+    </string-array>
+
+</resources>
